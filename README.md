@@ -9,7 +9,7 @@ Exploring the intersection of AI/ML, reinforcement learning, robotics, and elect
 - Working with ROS2 and exploring robotic systems
 - Exploring applications of AI in electronics and hardware
 
-# Technologies
+## Technologies
 
 **Languages:** Python, C++, Java,JS, Verilog, R  
 **ML/DL:** PyTorch, NumPy
